@@ -1,0 +1,29 @@
+name: whisperwind
+description: "Build a Flutter application that allows two or more users to chat in real-time over Bluetooth."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  flutter_blue_plus: ^1.35.5
+  provider: ^6.1.5
+  sqflite: ^2.4.2
+  shared_preferences: ^2.5.3
+  intl: ^0.20.2
+  permission_handler: ^12.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+
