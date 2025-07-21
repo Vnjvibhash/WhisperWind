@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class LightModeColors {
-  static const lightPrimary = Color(0xFF1A73E8); // Logo Blue
+  static const lightPrimary = Color(0xFF043D69); // Logo Blue
   static const lightOnPrimary = Color(0xFFFFFFFF);
   static const lightPrimaryContainer = Color(0xFFD2E3FC);
   static const lightOnPrimaryContainer = Color(0xFF174EA6);
